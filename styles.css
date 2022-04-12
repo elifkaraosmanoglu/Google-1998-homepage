@@ -1,0 +1,52 @@
+.google-img {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-search {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    background-color:#EEEEEE ;
+    text-align: center;
+}
+
+.middle-1 p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.middle-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.page-bottom {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+}
+
+.bottom-left {
+    background-color: #7ee5da;
+}
+
+.bottom-middle {
+    
+    align-items: center;
+    background-color: #70ccc2;
+}
+.bottom-right {
+    
+    align-items: center;
+    justify-content: center;
+    background-color: #62b3aa;
+}
+.copyright{
+    text-align: center;
+}
